@@ -7,10 +7,12 @@ list of selected mobiles.
 > Read the instruction clearly. We recommend going through the [FAQs](#faqs) section if candidate have any
 > any confusion regarding the task. Always feel free to ask us if you have any confusion outside FAQs.
 
+---
 ## Time:
 
 We always try to give our candidates enough time to solve the puzzle, 2 working days would be a desirable point in time to get a glimpse on what you created.
 
+---
 ## Features
 
 ### Client Side: (ReactJS):
