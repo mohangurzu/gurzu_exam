@@ -88,7 +88,7 @@ how it should look. You are free to use any styling tools that you want, SASS, c
 - [axios](https://github.com/axios/axios)
 - [Redux](https://redux.js.org/)
 - [Styled Component](https://www.styled-components.com/)
-
+- [TypeScript](https://www.typescriptlang.org/)
 ---
 
 
