@@ -4,6 +4,10 @@ This is an e-commerce site for you to buy mobile. The homepage should display a 
 for people to browse, where on the right side of the screen should display a cart that show a
 list of selected mobiles.
 
+## Time:
+
+We always try to give our candidates enough time to solve the puzzle, 2 working days would be a desirable point in time to get a glimpse on what you created.
+
 ## Features
 
 ### Client Side: (ReactJS):
@@ -28,7 +32,6 @@ list of selected mobiles.
 2.  Return the JSON Response.
 3.  Consume it using react JS.
 
-
 ## Demonstration of following technology will have advantage:
 
 - Express / NEXT / NEST for API
@@ -36,6 +39,7 @@ list of selected mobiles.
 - Axios
 - Redux
 - Code Management using folder Structure.
+
 ## FAQs:
 
 ### How do I start the app?
@@ -52,10 +56,10 @@ list of selected mobiles.
 ### What should I do when I'm finished?
 
 - After you have finished you work push all commits to your repository,and then send us email
- to inform that app has been finished, also please add user as collaborator:
- - mohan@gurzu.com
+  to inform that app has been finished, also please add user as collaborator:
+- mohan@gurzu.com
 
- ### How is the exam graded?
+### How is the exam graded?
 
 We are looking for idiomatic use of JavaScript, and the ability to solve the problem with code that is clean and easy to
 read. Please show us how you would use the language and conventions to structure things in a clear and maintainable way.
