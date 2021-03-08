@@ -44,6 +44,7 @@ We always try to give our candidates enough time to solve the puzzle, 2 working 
 - Axios
 - Redux
 - Code Management using folder Structure.
+- React Router
 
 ---
 
