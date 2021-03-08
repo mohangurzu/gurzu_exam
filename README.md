@@ -7,6 +7,8 @@ list of selected mobiles.
 > Read the instruction clearly. We recommend going through the [FAQs](#faqs) section if candidate have any
 > any confusion regarding the task. Always feel free to ask us if you have any confusion outside FAQs.
 
+
+We would like to view the changes on the codebase over time. During all development please make regular commits while working on this app.
 ---
 ### Time:
 
