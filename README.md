@@ -8,12 +8,12 @@ list of selected mobiles.
 > any confusion regarding the task. Always feel free to ask us if you have any confusion outside FAQs.
 
 ---
-## Time:
+### Time:
 
 We always try to give our candidates enough time to solve the puzzle, 2 working days would be a desirable point in time to get a glimpse on what you created.
 
 ---
-## Features
+### Features
 
 ### Client Side: (ReactJS):
 
@@ -37,7 +37,7 @@ We always try to give our candidates enough time to solve the puzzle, 2 working 
 2.  Return the JSON Response.
 3.  Consume it using react JS.
 
-## Demonstration of following technology will have advantage:
+### Demonstration of following technology will have advantage:
 
 - Express / NEXT / NEST for API
 - CSS IN JS / SASS / Styled Component
@@ -47,7 +47,7 @@ We always try to give our candidates enough time to solve the puzzle, 2 working 
 
 ---
 
-## FAQs:
+### FAQs:
 
 ### How do I start the app?
 
@@ -76,6 +76,11 @@ read. Please show us how you would use the language and conventions to structure
 
 Even though we are not giving you the UI design, we believe that as a Frontend Developer you should have some ideas of
 how it should look. You are free to use any styling tools that you want, SASS, css-in-js, or even styled-components.
+
+---
+
+
+
 
 > The tasks may not be used in whole or in part for own purposes. In particular, publication of the tasks is not permitted. The tasks are protected by copyright.
 
