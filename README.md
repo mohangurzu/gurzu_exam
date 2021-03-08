@@ -77,7 +77,7 @@ We always try to give our candidates enough time to solve the puzzle, 2 working 
  ### When should I submit the task?
   [Submission Time](#time)
 
-  ### Should I  deploy my task to server?
+  ### Should I  deploy my task to free server?
   It's optional. We are more interested in your coding practices. 
 
 
