@@ -10,7 +10,7 @@ list of selected mobiles.
 
 ##### We would like to view the changes on the codebase over time. During all development please make regular commits while working on this app.
 ---
-### Time:
+### Time
 
 We always try to give our candidates enough time to solve the puzzle, 2 working days would be a desirable point in time to get a glimpse on what you created.
 
