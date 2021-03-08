@@ -4,7 +4,7 @@ This is an e-commerce site for you to buy mobile. The homepage should display a 
 for people to browse, where on the right side of the screen should display a cart that show a
 list of selected mobiles.
 
-> Read the instruction carefully. We recommend going through the [FAQs](#faqs) section if candidate have any confusion regarding the task. Always feel free to ask us if you have any confusion outside [FAQs](#faqs).
+> Read the instruction carefully. We recommend going through the [FAQs](#faqs) section if candidate have any confusion regarding the task. Always feel free to ask us, if you have any confusion outside [FAQs](#faqs).
 
 
 ##### We would like to view the changes on the codebase over time. During all development please make regular commits while working on this app.
@@ -40,12 +40,11 @@ We always try to give our candidates enough time to solve the puzzle, 2 working 
 
 ### Demonstration of following technology will have advantage:
 
-- Express / NEXT / NEST for API
-- CSS IN JS / SASS / Styled Component
 - Axios
-- Redux
-- Code Management using folder Structure.
+- Redux / Redux Toolkit
+- Code and folder Structure.
 - React Router
+- CSS IN JS / SASS / Styled Component
 
 ---
 
