@@ -8,7 +8,7 @@ list of selected mobiles.
 > any confusion regarding the task. Always feel free to ask us if you have any confusion outside FAQs.
 
 
-We would like to view the changes on the codebase over time. During all development please make regular commits while working on this app.
+##### We would like to view the changes on the codebase over time. During all development please make regular commits while working on this app.
 ---
 ### Time:
 
