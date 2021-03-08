@@ -4,7 +4,7 @@ This is an e-commerce site for you to buy mobile. The homepage should display a 
 for people to browse, where on the right side of the screen should display a cart that show a
 list of selected mobiles.
 
-> Read the instruction clearly. We recommend going through the FAQs section if candidate have any
+> Read the instruction clearly. We recommend going through the [FAQs](#faqs) section if candidate have any
 > any confusion regarding the task. Always feel free to ask us if you have any confusion outside FAQs.
 
 ## Time:
