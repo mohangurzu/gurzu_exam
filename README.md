@@ -60,8 +60,11 @@ We always try to give our candidates enough time to solve the puzzle, 2 working 
 
 - After you have finished you work push all commits to your repository,and then send us email
   to inform that app has been finished, also please add user as collaborator:
-- mohan@gurzu.com
+    
+    - mohan@gurzu.com
 
+
+---
 ### How is the exam graded?
 
 We are looking for idiomatic use of JavaScript, and the ability to solve the problem with code that is clean and easy to
