@@ -9,6 +9,7 @@ const PORT = 8000;
 const MAX_MOBILE = 100;
 
 app.get('/api/mobiles', (req, res) => {
+  //** Add your api base code here. */
   
 })
 
