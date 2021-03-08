@@ -78,7 +78,18 @@ Even though we are not giving you the UI design, we believe that as a Frontend D
 how it should look. You are free to use any styling tools that you want, SASS, css-in-js, or even styled-components.
 
 ---
+### Reference
 
+- [Express](https://expressjs.com/)
+- [Node](https://nodejs.org/)
+- [Create React App](https://reactjs.org/docs/create-a-new-react-app.html)
+- [Next](https://nextjs.org/)
+- [Nest](https://nestjs.com/)
+- [axios](https://github.com/axios/axios)
+- [Redux](https://redux.js.org/)
+- [Styled Component](https://www.styled-components.com/)
+
+---
 
 
 
