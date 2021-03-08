@@ -5,7 +5,7 @@ for people to browse, where on the right side of the screen should display a car
 list of selected mobiles.
 
 > Read the instruction carefully. We recommend going through the [FAQs](#faqs) section if candidate have any
-> any confusion regarding the task. Always feel free to ask us if you have any confusion outside FAQs.
+> any confusion regarding the task. Always feel free to ask us if you have any confusion outside [FAQs](#faqs).
 
 
 ##### We would like to view the changes on the codebase over time. During all development please make regular commits while working on this app.
@@ -70,9 +70,12 @@ We always try to give our candidates enough time to solve the puzzle, 2 working 
     
     - mohan@gurzu.com
 
-### Can I replace server folder with NextJS/ NestJS code.
+### Can I replace server folder with NextJS/ NestJS code?
  Current template assume that server will use express js. Feel free to replace with NextJS project or 
- NestJS project.    
+ NestJS project.   
+ 
+ ### When should I submit the task?
+  [Submission Time](#time)
 
 
 ---
