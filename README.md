@@ -67,6 +67,10 @@ We always try to give our candidates enough time to solve the puzzle, 2 working 
     
     - mohan@gurzu.com
 
+### Can I replace server folder with NextJS/ NestJS code.
+ Current template assume that server will use express js. Feel free to replace with NextJS project or 
+ NestJS project.    
+
 
 ---
 ### How is the exam graded?
